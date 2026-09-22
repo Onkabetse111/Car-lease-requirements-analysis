@@ -1,9 +1,7 @@
-# Car-lease-requirements-analysis
+# Car Lease Requirements & Testing Prioritisation Analysis
 Business Analysis and Data Analysis project using Excel and Power BI to analyse car-lease software requirements, identify high-impact requirements, and develop a proposed requirements prioritisation framework.
 
 ---
-
-# Car Lease Requirements & Testing Prioritisation Analysis
 
 ## Project Overview
 
